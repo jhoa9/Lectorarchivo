@@ -14,3 +14,6 @@
 file:///C:/Users/Estefania%20Sora/Downloads/Diagrama%20sin%20t%C3%ADtulo.drawio.html
 
 
+<iframe
+  src="Diagrama%20sin%20t%C3%ADtulo.drawio.html">
+</iframe>
