@@ -13,6 +13,4 @@
 
 <h2>Diagrama UML</h2>
 
-
-![Diagrama sin título drawio](https://github.com/jhoa9/Lectorarchivo/assets/48261853/98d76a3d-7158-4a70-be84-0b7d4108ad4d)
-
+![Diagrama sin título drawio (1)](https://github.com/jhoa9/Lectorarchivo/assets/48261853/13c36201-1c8f-43c3-a3ed-89751de16eea)
