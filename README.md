@@ -11,3 +11,8 @@
 <h2>Sustentación</h2>
 <p>El patrón de diseño  <strong>Decorator</strong>, fue elegido para el desarrollo del ejercicio debido a que cuenta con extensibilidad, permitiendo añadir nuevas funcionalidades sin modificar las clases existentes, requisitos que solicitaba el enunciado se tuviera en cuenta para su solución. </p>
 
+<h2>Diagrama UML</h2>
+
+
+![Diagrama sin título drawio](https://github.com/jhoa9/Lectorarchivo/assets/48261853/98d76a3d-7158-4a70-be84-0b7d4108ad4d)
+
